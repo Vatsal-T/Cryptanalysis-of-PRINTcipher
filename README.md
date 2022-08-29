@@ -8,6 +8,6 @@ Files with description:
     we have attached a verify_PRINTcipher_48.png file which is taken from a research paper named "PRINTcipher: A Block Cipher for IC-Printing"
     (link of research paper: https://link.springer.com/chapter/10.1007%2F978-3-642-15031-9_2).
 
-2) verify_PRINTcipher_48.png: To verify the code implemented in implementation_codebreaker.cpp (Link: https://github.com/prashantkumars289/PRINTcipher/blob/main/verify_PRINTcipher_48.PNG)
+2) verify_PRINTcipher_48.png: To verify the code implemented in implementation_codebreaker.cpp (Link: https://github.com/Vatsal-T/Cryptanalysis-of-PRINTcipher/blob/main/verify_PRINTcipher_48.png)
 
 
